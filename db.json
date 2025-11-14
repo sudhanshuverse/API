@@ -1,10 +1,10 @@
 {
   "Users": [
     {
+      "id": 1,
       "name": "Sudhanshu Kumar",
       "email": "sudha@gmail.com",
-      "age": "21",
-      "id": 1
+      "age": "21"
     }
   ]
 }
